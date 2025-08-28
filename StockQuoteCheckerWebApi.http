@@ -1,0 +1,6 @@
+@StockQuoteCheckerWebApi_HostAddress = http://localhost:5195
+
+GET {{StockQuoteCheckerWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
